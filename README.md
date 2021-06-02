@@ -25,7 +25,7 @@
 The SVC2021_EvalDB database is a novel database specifically acquired for SVC 2021 and also used in SVC On-Going Competition. Two acquisition scenarios are considered: office and mobile scenarios.
 
 
-![](http://atvs.ii.uam.es/atvs/DeepSignDB_Database.png)
+![](SVC2021.png)
 
 
 *	**Office scenario**: on-line signatures from 75 total subjects were acquired using a Wacom STU-530 device with the stylus as writing input. Regarding the acquisition protocol, the device was placed on a desktop and subjects were able to rotate it in order to feel comfortable with the writing position. It is important to highlight that the subjects considered in the acquisition of SVC2021_EvalDB are different compared to the ones considered in the DeepSignDB database. Signatures were collected in two separated sessions with a time gap between them of at least 1 week. For each subject, there are 8 total genuine signatures (4 signatures/session) and 16 skilled forgeries (8 signatures/type) performed by four different subjects in two different sessions. Regarding the skilled forgeries, both static and dynamic forgeries were considered in the first and second acquisition sessions, respectively. Information related to X and Y spatial coordinates, pressure, and timestamp is recorded for the Wacom device. In addition, pen-up trajectories are also available.
