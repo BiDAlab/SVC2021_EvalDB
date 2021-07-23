@@ -22,7 +22,7 @@
 
 ## **DESCRIPTION OF SVC2021_EvalDB**
 
-The SVC2021_EvalDB database is a novel database specifically acquired for SVC 2021 and also used in SVC On-Going Competition. Two acquisition scenarios are considered: office and mobile scenarios.
+The SVC2021_EvalDB database is a novel database specifically acquired for SVC 2021 and also used in SVC-OnGoing Competition. Two acquisition scenarios are considered: office and mobile scenarios.
 
 
 ![](SVC2021.png)
