@@ -37,6 +37,6 @@ The SVC2021_EvalDB database is a novel database specifically acquired for SVC 20
 
 For further information on the database and on different applications where it has been used, we refer the reader to (all these articles are publicly available in the [publications](http://atvs.ii.uam.es/atvs/listpublications.do) section of the BiDA group webpage.)
 
-- R. Tolosana, R. Vera-Rodriguez, C. Gonzalez-Garcia, et al., “ICDAR 2021 Competition on On-Line Signature Verification”, in Proc. International Conference on Document Analysis and Recognition, ICDAR, Lausanne, Switzerland, 2021.  
+- R. Tolosana, R. Vera-Rodriguez, C. Gonzalez-Garcia, et al., “SVC-onGoing: Signature Verification Competition”, Pattern Recognition, 2022.  
 
-- R. Tolosana, R. Vera-Rodriguez, J. Fierrez, and J. Ortega-Garcia, “DeepSign: Deep On-Line Signature Verification”, IEEE Transactions on Biometrics, Behavior, and Identity Science, 2021.
+- R. Tolosana, R. Vera-Rodriguez, J. Fierrez, and J. Ortega-Garcia, et al., “ICDAR 2021 Competition on On-Line Signature Verification”, in Proc. International Conference on Document Analysis and Recognition, ICDAR, Lausanne, Switzerland, 2021.
